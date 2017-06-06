@@ -27,8 +27,9 @@
     color: red;
 }
 .slide{
-    width:350px;
+    /*width:350px;*/
     height: 350px;
+    position: relative;
 }
 .dot {
     border-radius:50%;
