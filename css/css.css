@@ -58,11 +58,9 @@
     position:absolute;
     height: 50px; width: 50px;
     top: 50%; left:50%;
-    border: 2px solid rgba(66, 152, 181, 1);
-    -webkit-animation: pulsate 3s infinite;
+    border: 2px solid #ff4b65;
     animation: pulsate 3s infinite;
-    background-color:#4298b5;
-    -webkit-transform:translateX(-50%) translateY(-50%);
+    background-color: #ff4b65;
     transform:translateX(-50%) translateY(-50%);
 }
 
